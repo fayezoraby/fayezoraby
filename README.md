@@ -1,4 +1,4 @@
-# Hi, I'm Fayez 👋
+<h align="center">Hi, I'm Fayez 👋</h>
 
 💡 **Accountant → Programmer**  
 Currently transitioning into IT and Computer Science, building strong foundations in:

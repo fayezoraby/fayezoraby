@@ -21,4 +21,4 @@ Currently transitioning into IT and Computer Science, building strong foundation
 
  > ✨ *“مَن سَلَكَ طَريقًا يَلتمِسُ فيه عِلمًا، سَهَّلَ اللَّهُ لهُ به طَريقًا إلى الجنَّة”* (Muslim, 2699)
 
-
+<br><br>

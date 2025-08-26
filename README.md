@@ -18,8 +18,7 @@ Currently transitioning into IT and Computer Science, building strong foundation
 - [**MyApps C++**](https://github.com/fayezoraby/MyApps_cpp) – C++ learning playground  
 
 ---
-
- > <p align="center">
+<p align="center">
 ✨ <i>“مَن سَلَكَ طَريقًا يَلتمِسُ فيه عِلمًا، سَهَّلَ اللَّهُ لهُ به طَريقًا إلى الجنَّة”</i><br>
 <i>(Whoever follows a path to seek knowledge, Allah will make the path to Paradise easy for them)</i><br>
 (Muslim, 2699)

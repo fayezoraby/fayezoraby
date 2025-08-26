@@ -1,23 +1,33 @@
-<p align="center">
-  <h1>Hi, I'm Fayez</h1>
-</p>
+# Hi, I'm Fayez Eloraby 👋
 
-💡 **Accountant → Programmer**  
-Currently transitioning into IT and Computer Science, building strong foundations in:
+**Accountant → Programmer**
 
-- **Languages**: C, C++, Python, Bash  
-- **Systems**: Linux, Networking, Cybersecurity basics  
-- **Projects**: Costing systems, CLI tools, educational apps for my family  
+I'm making an exciting transition from accounting to programming, and currently building my skills in:
 
-📚 Following the [OSSU Computer Science curriculum](https://github.com/ossu/computer-science) step by step.  
-🔒 Interested in **systems programming, cybersecurity, and automation**.  
+- **Languages**: C, C++, Python
+- **Technologies**: Linux
+- **Interests**: Cybersecurity
 
----
+## 🚀 My Journey
 
-### 🚀 Featured Projects
-- [**PDF Splitter**](https://github.com/fayezoraby/pdf_splitter) – A simple Python app to split PDF pages  
-- [**Bandit Walkthrough**](https://github.com/fayezoraby/bandit.walkthrough) – CTF solutions & notes  
-- [**MyApps C++**](https://github.com/fayezoraby/MyApps_cpp) – C++ learning playground  
+After years in accounting, I discovered a passion for technology and problem-solving. Now, I am dedicated to learning software development and cybersecurity fundamentals.
+
+## 🌱 Currently Learning
+
+- Systems programming with C and C++
+- Scripting and automation with Python
+- Linux administration and shell scripting
+- Cybersecurity basics (networking, ethical hacking, and more)
+
+## 💡 Goals
+
+- Build real-world projects in my learning stack
+- Contribute to open source
+- Transition to a tech-focused role
+
+## 📫 Connect with Me
+
+Feel free to reach out for collaboration or mentorship! I’m open to opportunities and enjoy meeting fellow learners.
 
 ---
 <p align="center">
@@ -26,3 +36,6 @@ Currently transitioning into IT and Computer Science, building strong foundation
 (Muslim, 2699)
 </p>
 <br><br>
+---
+
+*Thanks for visiting my profile!* <>br<>

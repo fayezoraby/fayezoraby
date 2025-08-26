@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Fayez 👋</h1>
-
+<p align="center">
+  <h1>Hi, I'm Fayez 👋</h1>
+</p>
 💡 **Accountant → Programmer**  
 Currently transitioning into IT and Computer Science, building strong foundations in:
 

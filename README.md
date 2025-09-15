@@ -38,4 +38,6 @@ Feel free to reach out for collaboration or mentorship! I’m open to opportunit
 <br><br>
 ---
 
-*Thanks for visiting my profile!* <>br<>
+*Thanks for visiting my profile!* 
+
+<>br<>
